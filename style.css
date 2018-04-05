@@ -2,9 +2,12 @@
     width: 50%;
     height: 50%
 }
-
+html {
+    overflow-x: hidden;
+}
 body {
     background-color: #000000;
+    overflow-x: hidden;
 }
 
 a {
