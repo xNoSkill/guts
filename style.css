@@ -29,9 +29,9 @@ a {
         position: relative;
         border-top: solid;
         border-bottom-style: solid;
-        border-bottom-color: #fff;
+        border-bottom-color: #808080;
         border-spacing: 1px;
-        background: #fff;
+        background: #808080;
     }
 
 .full {
