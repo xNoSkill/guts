@@ -10,6 +10,3 @@ function StopSound(soundobj) {
 }
 
 document.ontouchmove = function (e) { e.preventDefault(); }
-
-var vid = document.getElementById("myVideo");
-{vid.volume = 0.2; }
