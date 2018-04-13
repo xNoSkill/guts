@@ -79,3 +79,10 @@ a {
     }
 }
 
+.border {
+    border-left:ridge;
+    border-left-color:#fff;
+    border-right:ridge;
+    border-right-color:#fff;
+    width:auto;
+}
