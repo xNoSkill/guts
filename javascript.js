@@ -8,3 +8,5 @@ function StopSound(soundobj) {
     thissound.pause();
     thissound.currentTime = 0;
 }
+
+document.ontouchmove = function (e) { e.preventDefault(); }
