@@ -85,4 +85,8 @@ a {
     border-right:ridge;
     border-right-color:#fff;
     width:auto;
+    border-top:ridge;
+    border-top-color:#ffffff;
+    border-bottom-color:#ffffff;
+    border-bottom:ridge;
 }
